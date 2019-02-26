@@ -1,0 +1,14 @@
+.x{
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    width: 50%;
+}
+.w{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: #3f7f93;
+}
